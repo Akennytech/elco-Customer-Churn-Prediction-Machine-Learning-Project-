@@ -1,0 +1,2 @@
+# elco-Customer-Churn-Prediction-Machine-Learning-Project-
+Built a machine learning model to predict telecom customer churn using the IBM Telco dataset. Performed full data analysis workflow—data cleaning, EDA, feature engineering, and model training with Logistic Regression and Random Forest. Achieved strong performance and identified key churn drivers such as contract type, tenure, and monthly charges.
